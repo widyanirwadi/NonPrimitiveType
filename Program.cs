@@ -117,6 +117,7 @@
             */
 
             /* Enum */
+
             /*
             hariDalamSeminggu today = hariDalamSeminggu.Senin;
 
@@ -127,6 +128,46 @@
             {
                 Console.WriteLine("Today is not Monday");
             }
+            */
+
+            /* for loop */
+            /*
+            for (var i = 0; i < 3; i++)
+            {
+                Console.WriteLine(i);
+            }
+            */
+
+            /* while loop */
+            /*
+            int count = 0;
+
+            while (count < 5)
+            {
+                Console.WriteLine("test" + " " + count);
+                count++;
+            }
+            */
+
+            /* do while loop */
+            /*
+            int count2 = 0;
+
+            do
+            {
+                Console.WriteLine("Test2" + " " + count2);
+                count2++;
+            } while (count2 < 5);
+            */
+
+            /* foreach loop */
+            /*
+            string joinedString2 = "";
+            foreach (int testing in matrix)
+            {
+                joinedString2 = joinedString2 + testing.ToString();
+            }
+            Console.WriteLine(joinedString2);\
             */
         }
     }
