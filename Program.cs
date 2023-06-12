@@ -13,6 +13,32 @@
             Minggu = 6
         }
 
+        public abstract class Shape
+        {
+            public abstract double CalculateArea();
+        }
+
+        public class Circle : Shape
+        {
+            public double Radius { get; set; }
+
+            public override double CalculateArea()
+            {
+                return Math.PI * Radius * Radius;
+            }
+        }
+
+        public class Rectangle : Shape
+        {
+            public double Width { get; set; }
+            public double Height { get; set; }
+
+            public override double CalculateArea()
+            {
+                return Width * Height;
+            }
+        }
+
         static void Main(string[] args)
         {
             /* Assign person object using normal method */
@@ -169,6 +195,18 @@
             }
             Console.WriteLine(joinedString2);\
             */
+
+            /* Polymorphism */
+            Shape circle = new Circle { Radius = 5 };
+            Shape rectangle = new Rectangle { Width = 4, Height = 6 };
+
+            double circleArea = circle.CalculateArea(); // Memanggil metode CalculateArea() dari objek Circle
+            double rectangleArea = rectangle.CalculateArea(); // Memanggil metode CalculateArea() dari objek Rectangle
+
+            Console.WriteLine("Circle Area: " + circleArea);
+            Console.WriteLine("Rectangle Area: " + rectangleArea);
+
+
         }
     }
 }
