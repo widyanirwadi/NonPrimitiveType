@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\NonPrimitiveType\bin\Debug\net6.0\NonPrimitiveType.exe
+C:\Users\user\source\repos\NonPrimitiveType\bin\Debug\net6.0\NonPrimitiveType.deps.json
+C:\Users\user\source\repos\NonPrimitiveType\bin\Debug\net6.0\NonPrimitiveType.runtimeconfig.json
+C:\Users\user\source\repos\NonPrimitiveType\bin\Debug\net6.0\NonPrimitiveType.dll
+C:\Users\user\source\repos\NonPrimitiveType\bin\Debug\net6.0\NonPrimitiveType.pdb
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\NonPrimitiveType.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\NonPrimitiveType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\NonPrimitiveType.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\NonPrimitiveType.AssemblyInfo.cs
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\NonPrimitiveType.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\NonPrimitiveType.dll
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\refint\NonPrimitiveType.dll
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\NonPrimitiveType.pdb
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\NonPrimitiveType.genruntimeconfig.cache
+C:\Users\user\source\repos\NonPrimitiveType\obj\Debug\net6.0\ref\NonPrimitiveType.dll
